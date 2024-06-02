@@ -9,7 +9,7 @@ This guide was created to help you understand and use Jolt, a powerful JSON tran
 ## Guide Link
 
 You can access the complete guide at the following link:
-[Jolt Guide for Apache NiFi](https://lucabiscotti.github.io/lucabiscotti.jolt-guide.github.io/)
+[Jolt Guide for Apache NiFi](https://lucabiscotti.github.io/jolt-guide.github.io/)
 
 ## Guide Contents
 
